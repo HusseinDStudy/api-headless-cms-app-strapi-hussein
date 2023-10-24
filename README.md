@@ -1,3 +1,8 @@
+# ToDo List
+- [x] Copy ```.env.examples``` to ```.env```
+- [x] Launch ```npm install``` to Install
+- [x] Launch ```npm run develop``` to Run
+- [x] Change Strapi USERS & PERMISSIONS Settings: Roles => Public =>  Address: check Select all
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
